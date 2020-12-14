@@ -1,0 +1,17 @@
+.Main{
+    overflow: hidden;
+    max-width: calc(100% - 20px);
+    margin: 10px;
+}
+
+.Desc{
+    display: flex;
+    margin-left: 10px;
+    justify-content: space-between;
+}
+.Desc > h4 {
+    white-space: nowrap;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: small;
+}

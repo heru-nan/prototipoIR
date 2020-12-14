@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "nombre": "INFO208: INGENIERÍA DE REQUISITOS",
+        "detalles": "Licenciatura"
+    },
+    {
+        "id": 2,
+        "nombre": "BAIN065: ÁLGEBRA PARA INGENIERÍA",
+        "detalles": "Bachillerato"
+
+    },{
+        "id": 3,
+        "nombre": "INFO257: INTELIGENCIA ARTIFICIAL",
+        "detalles": "Licenciatura"
+
+    },{
+        "id": 4,
+        "nombre": "BAIN150: INGLÉS FUNCIONAL",
+        "detalles": "Bachillerato"
+
+    },{
+        "id": 5,
+        "nombre": "INFO245: INTERACCIÓN HUMANO-COMPUTADOR ",
+        "detalles": "Licenciatura"
+    },{
+        "id": 6,
+        "nombre": "INFO139: TEORÍA DE AUTÓMATAS",
+        "detalles": "Licenciatura"
+        
+    },{
+        "id": 7,
+        "nombre": "INFO198: SISTEMAS OPERATIVOS ",
+        "detalles": "Licenciatura"
+    },{
+        "id": 8,
+        "nombre": "ELECT101: OPTATIVO DE ESPECIALIZACIÓN II",
+        "detalles": "Licenciatura"
+    }
+]

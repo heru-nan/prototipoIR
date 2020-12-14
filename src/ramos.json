@@ -1,0 +1,37 @@
+[ 
+    {
+    "id": 1,
+    "nombre": "INFO208: Ingeniería de Requisitos",
+    "descripcion": "Lorep ipsum Lorep ipsum Lorep ipsum Lorep ipsum Lorep ipsum Lorep ipsum ",
+    "horas": [25.5, 25.5, 76.5],
+    "competencias": [
+        {
+            "descripcion": "Modelar problemas, sistemas y procesos, haciendo uso de las ciencias básicas y ciencias de la ingeniería",
+            "capaz": "Lorep ipsum Lorep ipsum Lorep ipsum  Lorep ipsum"
+        },
+        {
+            "descripcion": "Concebir sistemas de software que aporten valor a organización, con una visión sistémica e innovadora, determinando su factibilidad y planificando su desarrollo, en el marco de un modelo de proceso de software apropiado.",
+            "capaz": "Lorep ipsum Lorep ipsum Lorep ipsum  Lorep ipsum"
+        },
+        {
+            "descripcion": "Manifestar una actitud innovadora, emprendedora y de adaptación al cambio en contextos globales y locales del ejercicio de la Ingeniería Civil en Informática",
+            "capaz":"Lorep ipsum Lorep ipsum Lorep ipsum  Lorep ipsum"
+        }
+    ],
+    "requisitos": [
+        "INFO104: Taller de construccion de software",
+        "INFO000: Lorep Ipsum"
+    ],
+    "comentarios": [
+        {
+            "nombre": "Juan Salazar",
+            "fecha": "10/12/2020",
+            "contenido": "Lorep ipsum Lorep ipsum Lorep ipsum Lorep ipsum Lorep ipsum Lorep ipsum "
+        },{
+            "nombre": "Christian Olivares",
+            "fecha": "06/11/2019",
+            "contenido": "Lorep ipsum Lorep ipsum Lorep ipsum Lorep ipsum Lorep ipsum Lorep ipsum "
+        }
+    ]
+    }
+]
